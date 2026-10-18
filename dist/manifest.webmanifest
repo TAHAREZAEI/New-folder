@@ -1,0 +1,12 @@
+{
+  "name":"نت‌لب | آکادمی شبکه در جیب شما",
+  "short_name":"نت‌لب",
+  "description":"آموزش شبکه، Windows Server، Linux، Cisco و VMware با آزمون و لابراتوار توپولوژی",
+  "lang":"fa-IR",
+  "dir":"rtl",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#07111f",
+  "theme_color":"#07111f",
+  "icons":[{"src":"assets/icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
